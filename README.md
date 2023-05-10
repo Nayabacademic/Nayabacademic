@@ -1,12 +1,10 @@
-![bannerGithub2](https://github.com/Nayabacademic/Nayabacademic/assets/71265622/746ccf79-c302-4386-86de-ce0170e2f496)
+![banner](https://github.com/Nayabacademic/Nayabacademic/assets/71265622/746ccf79-c302-4386-86de-ce0170e2f496)
 <br/>
 <h2 align="left"><strong>
 I seek to contribute to this world with my knowledge of algorithms and abstractions.</strong></h2>
 <a target="_blank" href="https://www.instagram.com/academicafsar/">
 <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square" alt="Instagram Badge">
 </a>
-
-<br>
 
 ###  <img src="https://img.shields.io/badge/--black?logo=javascript&logoColor=F7DF1E&style=flat-square" alt="JS" height="20"> **aboutMe.js**
 
@@ -23,12 +21,15 @@ const nayabacademic = {
   
 ```
 
-<br>
-
 [![Nayab's Github Stats](https://github-readme-stats.vercel.app/api?username=Nayabacademic)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
-
+<h3 align="left">My creative space</h3>
+<img src="https://img.shields.io/badge/--black?logo=inkscape&logoColor=000000&style=flat-square" alt="JS" height="20">
+<img src="https://img.shields.io/badge/--black?logo=blender&logoColor=F5792A&style=flat-square" alt="blend" height="20">
+<img src="https://img.shields.io/badge/--black?logo=visual-studio-code&logoColor=007ACC&style=flat-square" alt="blend" height="20">
+<img src="https://img.shields.io/badge/--black?logo=affinity-designer&logoColor=1B72BE&style=flat-square" alt="blend" height="20">
+<br/>
 
 <img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"> <em> I am curious being, so if you want to say hi or just dropby, feel free to drop an email on<strong> afsaracademic@gmail </strong>, I'll be happy to exchnage our views on world or life or anything you fancy about ;)</b> </em>
 
