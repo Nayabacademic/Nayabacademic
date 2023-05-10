@@ -8,7 +8,7 @@ I seek to contribute to this world with my knowledge of algorithms and abstracti
 
 <br>
 
-###  <img src="https://img.shields.io/badge/-...-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JS" height="20"> **aboutMe.js**
+###  <img src="https://img.shields.io/badge/--black?logo=javascript&logoColor=F7DF1E&style=flat-square" alt="JS" height="20"> **aboutMe.js**
 
 ```js
 
@@ -16,7 +16,7 @@ const nayabacademic = {
   info: "A High school freshman and a potterhead who mainly programs in javascrript and  has recently ventured out in c++",
   speakLanguages: ["Javascript", "HTML", "CSS", "C++", "Hindi"],
   currentlylearning: ["Abstarct algorithms", "Python","Node.js", "Cooking"],
-  toolsUsing: ["VisualStudio Code", "Blender", "Inkscape", "Figma"],
+  toolsUsing: ["VisualStudio Code", "Blender", "Inkscape"],
   intrest:[ "Graphic designing", "Competitive Programming", "Math", "Physics" and Physics... ]
   
   }
@@ -30,6 +30,6 @@ const nayabacademic = {
 
 
 
-<img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"> <em> I am curious being, so if you want to say hi or just dropby, feel free to drop an email on<strong> afsaracademic@gmail </strong>, I'll be happy to exchnage our views on Harry potter or life or anything you fancy about ;)</b> </em>
+<img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"> <em> I am curious being, so if you want to say hi or just dropby, feel free to drop an email on<strong> afsaracademic@gmail </strong>, I'll be happy to exchnage our views on world or life or anything you fancy about ;)</b> </em>
 
 
