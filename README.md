@@ -25,10 +25,12 @@ const nayabacademic = {
 <br>
 
 <h3 align="left">My creative space</h3>
-<img src="https://img.shields.io/badge/--white?logo=inkscape&logoColor=000000&style=flat-square" alt="JS" height="20">
+<p float="left">
+ <img src="https://img.shields.io/badge/--white?logo=inkscape&logoColor=000000&style=flat-square" alt="JS" height="20">
 <img src="https://img.shields.io/badge/--white?logo=blender&logoColor=F5792A&style=flat-square" alt="blend" height="20">
 <img src="https://img.shields.io/badge/--white?logo=visual-studio-code&logoColor=007ACC&style=flat-square" alt="blend" height="20">
 <img src="https://img.shields.io/badge/--white?logo=affinity-designer&logoColor=1B72BE&style=flat-square" alt="blend" height="20">
+</p>
 <br/>
 
 <img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"> <em> I am curious being, so if you want to say hi or just dropby, feel free to drop an email on<strong> afsaracademic@gmail </strong>, I'll be happy to exchnage our views on world or life or anything you fancy about ;)</b> </em>
