@@ -1,5 +1,6 @@
-![Banner]. 
-### Hi there I am Nayab,
+![bannerGithub](https://github.com/Nayabacademic/Nayabacademic/assets/71265622/a8682839-8edb-4890-b9ca-624be5e000af)
+<br/>
+### Hi there,
 I'm a high school student.
 
 - 🌱 I’m currently learning HTML, CSS, JS, and C++, and Algorithms.
@@ -7,6 +8,31 @@ I'm a high school student.
 - Learning JS
 - I am Into, Graphic designing, Video-game making, Competitive Programming, Math, Physics and Physics.
 
+<br>
+<br>
+
+###  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="20"> **aboutMe.js**
+
+```js
+
+const sidbelbase = {
+  education: "UnderGraduate",
+  otherAlias: "Full Stack Developer",
+  codesIn: ["Javascript", "HTML", "CSS", "Python", "Bash"],
+  currentlylearning: ["MongoDB", "AI & ML","Django", "Scuva Diving"],
+  toolsUsing: ["Vue", "Flask", "Django", "FastAPI", "Sass", "AWS", "Wordpress", "Bootstrap", "Firebase", "Figma"],
+  }
+  
+```
+
+<br>
+
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+
+```
 
 [![Nayab's Github Stats](https://github-readme-stats.vercel.app/api?username=Nayabacademic)](https://github.com/anuraghazra/github-readme-stats)
 
