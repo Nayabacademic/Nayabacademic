@@ -1,14 +1,14 @@
 ![bannerGithub2](https://github.com/Nayabacademic/Nayabacademic/assets/71265622/746ccf79-c302-4386-86de-ce0170e2f496)
 <br/>
 <h2 align="left"><strong>
-I seek to contribute to this world with my knowledge of algorithms and abstractions.</strong></h3>
+I seek to contribute to this world with my knowledge of algorithms and abstractions.</strong></h2>
 <a target="_blank" href="https://www.instagram.com/academicafsar/">
 <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square" alt="Instagram Badge">
 </a>
 
 <br>
 
-###  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="20"> **aboutMe.js**
+###  <img src="https://img.shields.io/badge/-...-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JS" height="20"> **aboutMe.js**
 
 ```js
 
