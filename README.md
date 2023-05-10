@@ -4,24 +4,13 @@ I'm a high school student.
 
 - 🌱 I’m currently learning HTML, CSS, JS, and C++, and Algorithms.
 - 😀 I like to, code, read, and draw in my free time.
+- Learning JS
+- I am Into, Graphic designing, Video-game making, Competitive Programming, Math, Physics and Physics.
 
-#### -  Learning JS
-<br />
 
-
-**I am Into , 🙏**
-
-**Graphic designing, Video-game making, Competitive Programming, Math & Physics and Physics **
 [![Nayab's Github Stats](https://github-readme-stats.vercel.app/api?username=Nayabacademic)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<br />
-
-<br />
-
 *************
-
-<br />
 
 ### - Languages and Tools...
 ![visualstudio_codeIcon](https://github.com/Nayabacademic/Nayabacademic/assets/71265622/bfe18383-2414-4917-a905-277904215c67)
