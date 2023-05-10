@@ -26,11 +26,11 @@ const nayabacademic = {
 
 <h3 align="left">My creative space</h3>
 <p float="left">
- <img src="https://img.shields.io/badge/--000000?logo=inkscape&logoColor=white&style=flat-square" alt="ink" >
-<img src="https://img.shields.io/badge/--F5792A?logo=blender&logoColor=white&style=flat-square" alt="blend" >
+ <img src="https://img.shields.io/badge/--white?logo=inkscape&logoColor=000000&style=flat-square" alt="ink" >
+  <img src="https://img.shields.io/badge/--007ACC?logo=visual-studio-code&logoColor=white&style=flat-square" alt="code" >
   </p>
  <p>   
-<img src="https://img.shields.io/badge/--007ACC?logo=visual-studio-code&logoColor=white&style=flat-square" alt="code" >
+<img src="https://img.shields.io/badge/--F5792A?logo=blender&logoColor=white&style=flat-square" alt="blend" >
 <img src="https://img.shields.io/badge/--1B72BE?logo=affinity-designer&logoColor=white&style=flat-square" alt="affinity" >
 </p>
 <br/>
