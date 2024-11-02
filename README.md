@@ -8,18 +8,7 @@ I seek to contribute to this world with my knowledge of algorithms and abstracti
 
 ###  <img src="https://img.shields.io/badge/--black?logo=javascript&logoColor=F7DF1E&style=flat-square" alt="JS" height="20"> **aboutMe.js**
 
-```js
 
-const nayabacademic = {
-  info: "A High school freshman and a potterhead who mainly programs in javascrript and  has recently ventured out in c++",
-  speakLanguages: ["Javascript", "HTML", "CSS", "C++", "Hindi"],
-  currentlylearning: ["Abstarct algorithms", "Python","Node.js", "Cooking"],
-  toolsUsing: ["VisualStudio Code", "Blender", "Inkscape"],
-  intrest:[ "Graphic designing", "Competitive Programming", "Math", "Physics" and Physics... ]
-  
-  }
-  
-```
 <br>
 </br>
 
